@@ -1,0 +1,5 @@
+p01,Vietjet,108,Sai Gon,Ha Noi,6,7h30,2.0
+p02,VietNamAirline,207,Sai Gon,Da Nang,7h30,8h30,1.5
+p03,BamBoo,99,Sai Gon,Nha Trang,8h30,9h00,1.2
+p04,Star,108,Sai Gon,Phu Quoc,9h00,10h30,2.0
+p05,Vietjet,108,Ha Noi,Sai Gon,15h00,17h30,2.5

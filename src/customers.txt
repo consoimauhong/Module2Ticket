@@ -1,0 +1,5 @@
+c02,Luong,9,boy,023,VT,LUOng@
+C04,Phong,3,boy,0789,BP,PHOng@
+c05,Watashi,18,girl,0258,AG,Tran@
+c03,Hien,17,girl,0789,DN,Hien@
+c06,Cuong,35,boy,01212,ghg,hfg
